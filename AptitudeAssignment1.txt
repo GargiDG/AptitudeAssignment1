@@ -1,0 +1,12 @@
+Aptitude Assignment 1
+
+
+Q1) Answer : The equations of the lines x=2 & y=4 meet at the point (2,4)
+
+Q2) Answer: Has unique solution(-33,25) [here x=-33 and y=25]
+
+Q3) Answer: infinite
+
+Q4) Answer: identity
+
+Q5) Answer: 15:23
